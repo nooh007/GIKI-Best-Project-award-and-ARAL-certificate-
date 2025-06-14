@@ -1,7 +1,7 @@
 ### 🎖️ Best Project Award Certificate
 <br>
 
-![GIKI Award](https://raw.githubusercontent.com/nooh007/GIKI-Best-Project-award-and-ARAL-certificate-/main/GIKI%20award.jpg)
+![GIKI Award]([https://raw.githubusercontent.com/nooh007/GIKI-Best-Project-award-and-ARAL-certificate-/main/GIKI%20award.jpg](https://github.com/nooh007/GIKI-Best-Project-award-and-ARAL-certificate-/blob/main/GIKI_award.jpg))
 
 <br>
 
